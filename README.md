@@ -1,6 +1,7 @@
 # Netflix
 A dynamic dashboard to give the insights of the Netflix content
 Power BI Dashboard Projects
+Link:https://app.powerbi.com/links/WF3VfyvpuU?ctid=7e2137dd-6ef9-46eb-974e-5086fd7cdd20&pbi_source=linkShare
 1. NETFLIX
 Project Objective
 The objective of this project is to design and develop a comprehensive Netflix dashboard to analyze the performance of Netflix content (movies, tv series) in terms of views, ratings, votes , genre, contents as per the country , user engagement , recommendation effectiveness, competitor benchmarks, and marketing campaign impacts. This will provide actionable insights to optimize content strategy, enhance user experience, and drive business growth.
